@@ -1,3 +1,4 @@
+#!/bin/bash
 ######################################
 #Author: Ashish
 #Date: 8 sept
